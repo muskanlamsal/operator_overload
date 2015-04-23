@@ -1,1 +1,1 @@
-Repositor to submit operator overloading assignment.
+Repository to submit operator overloading assignment.
